@@ -1,6 +1,6 @@
 # FlightGearSimulatorApp
 
-This is a project done in Advanced Software Programming in java, its purpose is to control the flightGear flight simulator with an external desktop application.
+This is a project done in Advanced Software Programming course in java, its purpose is to control the flightGear flight simulator with an external desktop application.
 
 In order to run this project, you will need to:
 - install FlightGear
